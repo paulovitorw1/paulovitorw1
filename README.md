@@ -1,6 +1,6 @@
 ###  Hello World!! Eu sou Paulo Vitor
 
-![Linkedin Badge](https://www.linkedin.com/in/paulo-vitor-a81baa113)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-vitor-a81baa113)](https://www.linkedin.com/in/paulo-vitor-a81baa113)
 
 Meu nome é Paulo Vitor, sou formado em Técnico em informática pelo IFCE - Campus Maracanaú.
 - 🚀💼 Atualemte trabalhando como desenvolvedor web com Laravel(PHP) 
