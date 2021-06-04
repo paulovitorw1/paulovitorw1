@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-vitor-a81baa113)](https://www.linkedin.com/in/paulo-vitor-a81baa113)
 
 Meu nome é Paulo Vitor, sou formado em Técnico em informática pelo IFCE - Campus Maracanaú e estou cursando Ciência da Computação no IFCE - Campus Maracanaú
-- 🚀💼 Atualemte trabalhando como desenvolvedor full stack.
+- 🚀💼 Atualmente trabalhando como desenvolvedor full stack.
 
 
 **Linguagem e ferramentas:**
