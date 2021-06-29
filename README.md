@@ -18,6 +18,7 @@ Meu nome é Paulo Vitor, sou formado em Técnico em informática pelo IFCE - Cam
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="20" src="https://semantic-ui.com/images/logo.png"></code>
+<code><img height="20" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.carepredict.com%2Faxios-logo-2%2F%3Flang%3Dpt-br&psig=AOvVaw1DqpgpsnJtMfa2n7iq2_Ug&ust=1625011642532000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCJDIo6PGu_ECFQAAAAAdAAAAABAD"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
