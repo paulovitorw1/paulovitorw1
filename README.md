@@ -1,6 +1,6 @@
 ###  Olá, mundo!! Eu sou Paulo Vitor
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-vitor-a81baa113)](https://www.linkedin.com/in/paulo-vitor-a81baa113)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-vitor-silvaa81baa113)](https://www.linkedin.com/in/paulo-vitor-a81baa113)
 
 Eu sou formado em Técnico em Informática pelo IFCE Campus Maracanaú e estou prosseguindo meus estudos em Ciência da Computação no mesmo campus. Estou comprometido em ampliar meus conhecimentos e habilidades na área de tecnologia da informação para contribuir para o crescimento da indústria e para minha carreira.
 
