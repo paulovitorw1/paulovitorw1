@@ -2,9 +2,11 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-vitor-silva-a81baa113/)](https://www.linkedin.com/in/paulo-vitor-silva-a81baa113/)
 
-Eu sou formado em Técnico em Informática pelo IFCE Campus Maracanaú e estou prosseguindo meus estudos em Ciência da Computação no mesmo campus. Estou comprometido em ampliar meus conhecimentos e habilidades na área de tecnologia da informação para contribuir para o crescimento da indústria e para minha carreira.
+Olá! Sou um desenvolvedor full-stack com quatro anos de experiência, focado em desenvolvimento web e móvel. Durante a maior parte da minha carreira, trabalhei como desenvolvedor full-stack, utilizando PHP com o framework Laravel, MySQL, SQL no backend, e JavaScript Vanilla, TypeScript, Vue.js com Vuex no frontend.
 
-- 🚀💼 Atualmente, estou trabalhando como desenvolvedor iOS, utilizando a linguagem de programação Swift, mas já tive experiência em desenvolvimento web full-stack. Estou sempre buscando aprimorar meus conhecimentos e habilidades na área de tecnologia da informação.
+No entanto, há cerca de um ano, decidi expandir minhas habilidades e comecei a trabalhar com iOS Swift, utilizando UIKit, MVVM, MVC, MVP e design patterns para criar aplicativos móveis elegantes e de alta qualidade. Essa mudança me permitiu desenvolver uma sólida compreensão de práticas de desenvolvimento móvel, incluindo gerenciamento de estado, criação de interfaces de usuário atraentes e segurança de dados.
+
+Estou sempre buscando aprender e aprimorar minhas habilidades, além de me manter atualizado com as novas tecnologias e tendências de mercado. Sou apaixonado por programação e desafios, sempre buscando soluções criativas para os problemas que encontro.
 
 
 **Linguagem e ferramentas:**
